@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MathDIY</title><link>https://molate-hero.github.io/mathschool</link><description>Learn highschool math by yourself</description><copyright>MathDIY</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://molate-hero.github.io/mathschool</link></image><lastBuildDate>Sat, 16 Aug 2025 10:27:51 +0000</lastBuildDate><managingEditor>MathDIY</managingEditor><ttl>60</ttl><webMaster>MathDIY</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MathDIY</title><link>https://molate-hero.github.io/mathschool</link><description>Learn highschool math by yourself</description><copyright>MathDIY</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://molate-hero.github.io/mathschool</link></image><lastBuildDate>Sat, 16 Aug 2025 10:33:50 +0000</lastBuildDate><managingEditor>MathDIY</managingEditor><ttl>60</ttl><webMaster>MathDIY</webMaster><item><title>导数综合</title><link>https://molate-hero.github.io/mathschool/post/dao-shu-zong-he.html</link><description># 高中导数
+
+## 零、高中导数概述
+
+导数是高中的一大难点，其中包含了过多的知识点，如不等式放缩、零点定理等，涉及的题型也极其多样，如隐零点、同构、极值点偏移、端点效应......
+
+然而高中部分老师只是将导数作为高中数学的一章，并不明白就应试的目的而言，应该将导数作为单独一科，仔细介绍其中的知识点。</description><guid isPermaLink="true">https://molate-hero.github.io/mathschool/post/dao-shu-zong-he.html</guid><pubDate>Sat, 16 Aug 2025 10:31:00 +0000</pubDate></item></channel></rss>
